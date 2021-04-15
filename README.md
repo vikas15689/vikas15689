@@ -84,21 +84,20 @@ Description: This is a web application to provide services to project team membe
 This project is an attempt to create a software / utility to enable mobile devices to act as an IP camera. This utility will provide a way to use the mobile devices as source for live images to surveillance system.
 
 ## PERSONAL SPECIFICS
-Date of Birth : 15 June 1989
-Linguistic Proficiency : English, Hindi and Marathi
-Marital Status : Married
-Nationality : Indian
-Sex : Male
-Hobbies : Trekking, Swimming
-Strength : Quick learner
+* Date of Birth : 15 June 1989
+* Linguistic Proficiency : English, Hindi and Marathi
+* Marital Status : Married
+* Nationality : Indian
+* Sex : Male
+* Hobbies : Trekking, Swimming
+* Strength : Quick learner
 
 #### Vikas Awaghade
-Flat no 301,The Orchid,Ivy Estate Road,Wagholi, Pune 412207, Maharashtra, India
-Mobile phone:
-+91-9890736534 
+* Address : Flat no 301,The Orchid,Ivy Estate Road,Wagholi, Pune 412207, Maharashtra, India
+* Mobile phone: +91-9890736534 
 
 #### E-mail:
-vikasawaghade@gmail.com
+* vikasawaghade@gmail.com
 
 #### Skype:
-vikas.awaghade
+* vikas.awaghade
